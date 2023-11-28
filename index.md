@@ -6,7 +6,7 @@
 
 Fraud detection is crucial in preventing unauthorized financial activity. This project focuses on identifying and preventing various types of fraud, including credit card transactions and cyber hacking.
 
-[View on GitHub](https://github.com/sajankedia/fraud_detection)
+[View on GitHub]([https://github.com/sajankedia/fraud_detection](https://github.com/SouhardyaBiswas/fraud_detection))
 
 ![Fraud Detection](images/fraud_detection.jpg)
 
